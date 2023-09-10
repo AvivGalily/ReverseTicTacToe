@@ -1,0 +1,88 @@
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.exe
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.deps.json
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.runtimeconfig.json
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.dll
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.pdb
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeGameLogic.dll
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeGameLogic.pdb
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.FormSettings.resources
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.AssemblyInfo.cs
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.csproj.CopyComplete
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.dll
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\refint\TicTacToeWinUI.dll
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.pdb
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.genruntimeconfig.cache
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\ref\TicTacToeWinUI.dll
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.FormGame.resources
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.Properties.Resources.resources
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.csproj.AssemblyReference.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.FormGame.resources
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.FormSettings.resources
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.Properties.Resources.resources
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.csproj.GenerateResource.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.AssemblyInfoInputs.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.AssemblyInfo.cs
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.csproj.CoreCompileInputs.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\refint\TicTacToeWinUI.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.pdb
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.exe
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.deps.json
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.runtimeconfig.json
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.pdb
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeGameLogic.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeGameLogic.pdb
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.csproj.CopyComplete
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.genruntimeconfig.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net7.0-windows\ref\TicTacToeWinUI.dll
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.exe
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.deps.json
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.runtimeconfig.json
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.dll
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.pdb
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeGameLogic.dll
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeGameLogic.pdb
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.FormGame.resources
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.FormSettings.resources
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.AssemblyInfo.cs
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.csproj.CopyComplete
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.dll
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\refint\TicTacToeWinUI.dll
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.pdb
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.genruntimeconfig.cache
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\ref\TicTacToeWinUI.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.exe
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.deps.json
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.runtimeconfig.json
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeWinUI.pdb
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeGameLogic.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\bin\Debug\net7.0-windows\TicTacToeGameLogic.pdb
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.csproj.AssemblyReference.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.FormGame.resources
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.FormSettings.resources
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.Properties.Resources.resources
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.csproj.GenerateResource.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.AssemblyInfoInputs.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.AssemblyInfo.cs
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.csproj.CoreCompileInputs.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.csproj.CopyComplete
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\refint\TicTacToeWinUI.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.pdb
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\TicTacToeWinUI.genruntimeconfig.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeWinUI\obj\Debug\net7.0-windows\ref\TicTacToeWinUI.dll

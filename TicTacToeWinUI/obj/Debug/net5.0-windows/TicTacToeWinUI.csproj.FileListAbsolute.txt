@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net5.0-windows\TicTacToeWinUI.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net5.0-windows\TicTacToeWinUI.FormGame.resources
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net5.0-windows\TicTacToeWinUI.FormSettings.resources
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net5.0-windows\TicTacToeWinUI.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net5.0-windows\TicTacToeWinUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net5.0-windows\TicTacToeWinUI.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net5.0-windows\TicTacToeWinUI.AssemblyInfo.cs
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net5.0-windows\TicTacToeWinUI.csproj.CoreCompileInputs.cache

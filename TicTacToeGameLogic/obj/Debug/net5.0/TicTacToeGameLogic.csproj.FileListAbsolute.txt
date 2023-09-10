@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\bin\Debug\net5.0\TicTacToeGameLogic.deps.json
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\bin\Debug\net5.0\TicTacToeGameLogic.dll
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\bin\Debug\net5.0\TicTacToeGameLogic.pdb
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net5.0\TicTacToeGameLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net5.0\TicTacToeGameLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net5.0\TicTacToeGameLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net5.0\TicTacToeGameLogic.AssemblyInfo.cs
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net5.0\TicTacToeGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net5.0\TicTacToeGameLogic.dll
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net5.0\refint\TicTacToeGameLogic.dll
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net5.0\TicTacToeGameLogic.pdb
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net5.0\ref\TicTacToeGameLogic.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TicTacToeWinUI/1.0.0": {
+        "dependencies": {
+          "TicTacToeGameLogic": "1.0.0"
+        },
+        "runtime": {
+          "TicTacToeWinUI.dll": {}
+        }
+      },
+      "TicTacToeGameLogic/1.0.0": {
+        "runtime": {
+          "TicTacToeGameLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TicTacToeWinUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TicTacToeGameLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

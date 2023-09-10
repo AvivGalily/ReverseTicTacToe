@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net5.0\TicTacToeWinUI.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net5.0\TicTacToeWinUI.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net5.0\TicTacToeWinUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net5.0\TicTacToeWinUI.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net5.0\TicTacToeWinUI.AssemblyInfo.cs
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeWinUI\obj\Debug\net5.0\TicTacToeWinUI.csproj.CoreCompileInputs.cache
