@@ -38,9 +38,9 @@ Completed
 
 <div align="center">
 
-![](static/images/Main-Form.png)<br>
-![](static/images/Game-Board-Form.png)
-![](static/images/Tie-Form.png)
+![](GameImages/Main-Form.png)<br>
+![](GameImages/Game-Board-Form.png)
+![](GameImages/Tie-Form.png)
 
 </div>
 
