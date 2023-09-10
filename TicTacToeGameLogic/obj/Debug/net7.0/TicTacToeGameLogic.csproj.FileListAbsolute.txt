@@ -1,0 +1,48 @@
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\bin\Debug\net7.0\TicTacToeGameLogic.deps.json
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\bin\Debug\net7.0\TicTacToeGameLogic.dll
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\bin\Debug\net7.0\TicTacToeGameLogic.pdb
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.AssemblyInfo.cs
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.dll
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net7.0\refint\TicTacToeGameLogic.dll
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.pdb
+C:\Users\Admin\source\repos\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net7.0\ref\TicTacToeGameLogic.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\bin\Debug\net7.0\TicTacToeGameLogic.deps.json
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\bin\Debug\net7.0\TicTacToeGameLogic.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\bin\Debug\net7.0\TicTacToeGameLogic.pdb
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.csproj.AssemblyReference.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.AssemblyInfoInputs.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.AssemblyInfo.cs
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net7.0\refint\TicTacToeGameLogic.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.pdb
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774\TicTacToeGameLogic\obj\Debug\net7.0\ref\TicTacToeGameLogic.dll
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\bin\Debug\net7.0\TicTacToeGameLogic.deps.json
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\bin\Debug\net7.0\TicTacToeGameLogic.dll
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\bin\Debug\net7.0\TicTacToeGameLogic.pdb
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.AssemblyInfo.cs
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.dll
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\obj\Debug\net7.0\refint\TicTacToeGameLogic.dll
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.pdb
+C:\Users\Admin\Desktop\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\obj\Debug\net7.0\ref\TicTacToeGameLogic.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\bin\Debug\net7.0\TicTacToeGameLogic.deps.json
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\bin\Debug\net7.0\TicTacToeGameLogic.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\bin\Debug\net7.0\TicTacToeGameLogic.pdb
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.csproj.AssemblyReference.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.AssemblyInfoInputs.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.AssemblyInfo.cs
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\obj\Debug\net7.0\refint\TicTacToeGameLogic.dll
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\obj\Debug\net7.0\TicTacToeGameLogic.pdb
+C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\obj\Debug\net7.0\ref\TicTacToeGameLogic.dll

@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TicTacToeGameLogic
+build_property.ProjectDir = C:\Users\avivg\OneDrive\שולחן העבודה\מדעי המחשב\C#\תרגיל 5\B23 Ex05 Amit 316108224 Aviv 316431774 27062023\TicTacToeGameLogic\
